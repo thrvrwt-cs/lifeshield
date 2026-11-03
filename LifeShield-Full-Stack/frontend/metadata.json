@@ -1,0 +1,6 @@
+{
+  "name": "LifeShield - Health & Wellness Dashboard",
+  "description": "Preventive healthcare and wellness dashboard with real-time tracking, wellness scoring, vaccination tracker, and emergency health card.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
